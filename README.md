@@ -20,7 +20,7 @@ By utilizing this ANN-based approach, this project demonstrates the effectivenes
 
 ## Getting Started
 
-###To get started with this project, follow the instructions below:
+### To get started with this project, follow the instructions below:
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ TensorFlow
 Pandas
 You can install TensorFlow and Pandas using pip:
 
-##pip install tensorflow pandas
+### pip install tensorflow pandas
 
 ### Installation
 
